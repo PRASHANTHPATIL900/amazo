@@ -1,2 +1,4 @@
-# amazo
-online food delivery application
+dosa
+parota
+egg
+fish
